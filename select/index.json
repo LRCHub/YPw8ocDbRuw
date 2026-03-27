@@ -1,0 +1,288 @@
+{
+  "version": 1,
+  "base_track": "good night",
+  "base_artist": "Every Little Thing",
+  "createdAt": "2026-03-27T05:41:01.323879Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "On a Good Night",
+      "artist": "Wade Hayes",
+      "has_synced": true,
+      "path": "select/01_On_a_Good_Night_Wade_Hayes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "On A Good Night (Album Version)",
+      "artist": "Wade Hayes",
+      "has_synced": true,
+      "path": "select/02_On_A_Good_Night_(Album_Version)_Wade_Hayes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Way You Say Good-Night",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/03_The_Way_You_Say_Good-Night_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Way You Said Good-Night",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/04_The_Way_You_Said_Good-Night_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Good Night - Mono Version; 2016 Remastered Version",
+      "artist": "Vera Lynn",
+      "has_synced": true,
+      "path": "select/05_Good_Night_-_Mono_Version;_2016_Remastered_Version_Vera_Lynn.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Good Night",
+      "artist": "Vera Lynn",
+      "has_synced": true,
+      "path": "select/06_Good_Night_Vera_Lynn.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "GOOD-NIGHT FOR YOU",
+      "artist": "杏里",
+      "has_synced": true,
+      "path": "select/07_GOOD-NIGHT_FOR_YOU_杏里.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "To All A Good Night",
+      "artist": "Arab Strap",
+      "has_synced": true,
+      "path": "select/08_To_All_A_Good_Night_Arab_Strap.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Good Night Irene",
+      "artist": "Shivaree",
+      "has_synced": false,
+      "path": "select/09_Good_Night_Irene_Shivaree.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Good Night",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/10_Good_Night_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Good Night",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/11_Good_Night_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "« …Good Night, Goodbye » (feat. Ulver)",
+      "artist": "Carpenter Brut feat. Ulver",
+      "has_synced": false,
+      "path": "select/12_«_...Good_Night,_Goodbye_»_(feat._Ulver)_Carpenter_Brut_feat._Ulver.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "… Good Night, Goodbye",
+      "artist": "Carpenter Brut",
+      "has_synced": false,
+      "path": "select/13_..._Good_Night,_Goodbye_Carpenter_Brut.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Good Night Angel",
+      "artist": "Louis Armstrong",
+      "has_synced": false,
+      "path": "select/14_Good_Night_Angel_Louis_Armstrong.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Good Night, Angel (Remastered 2018)",
+      "artist": "Louis Armstrong",
+      "has_synced": false,
+      "path": "select/15_Good_Night,_Angel_(Remastered_2018)_Louis_Armstrong.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Good Night",
+      "artist": "Denzel Curry feat. Twelve'len & Nell",
+      "has_synced": true,
+      "path": "select/16_Good_Night_Denzel_Curry_feat._Twelve'len_&_Nell.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Good Night (feat. Twelve'len & Nell)",
+      "artist": "Denzel Curry",
+      "has_synced": true,
+      "path": "select/17_Good_Night_(feat._Twelve'len_&_Nell)_Denzel_Curry.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Country'd Look Good On You",
+      "artist": "Frank Ray",
+      "has_synced": true,
+      "path": "select/18_Country'd_Look_Good_On_You_Frank_Ray.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "GOOD TIME",
+      "artist": "Niko Moon",
+      "has_synced": true,
+      "path": "select/19_GOOD_TIME_Niko_Moon.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Good Beer",
+      "artist": "Seaforth feat. Jordan Davis",
+      "has_synced": true,
+      "path": "select/20_Good_Beer_Seaforth_feat._Jordan_Davis.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Good Beer",
+      "artist": "Seaforth",
+      "has_synced": true,
+      "path": "select/21_Good_Beer_Seaforth.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Good Friends",
+      "artist": "Maren Morris",
+      "has_synced": true,
+      "path": "select/22_Good_Friends_Maren_Morris.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Good Life",
+      "artist": "Kip Moore",
+      "has_synced": true,
+      "path": "select/23_Good_Life_Kip_Moore.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Good Ol' Man",
+      "artist": "Drew Green",
+      "has_synced": true,
+      "path": "select/24_Good_Ol'_Man_Drew_Green.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Good Ol' Man",
+      "artist": "Drew Green",
+      "has_synced": true,
+      "path": "select/25_Good_Ol'_Man_Drew_Green.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Good Things",
+      "artist": "Dan + Shay",
+      "has_synced": true,
+      "path": "select/26_Good_Things_Dan_+_Shay.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Good With Goodbye",
+      "artist": "John Morgan",
+      "has_synced": true,
+      "path": "select/27_Good_With_Goodbye_John_Morgan.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Good as Hell (feat. Ariana Grande) [Remix]",
+      "artist": "Lizzo",
+      "has_synced": true,
+      "path": "select/28_Good_as_Hell_(feat._Ariana_Grande)_[Remix]_Lizzo.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Good as You",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/29_Good_as_You_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Good as You",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/30_Good_as_You_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "I'm Good (Blue)",
+      "artist": "David Guetta",
+      "has_synced": false,
+      "path": "select/31_I'm_Good_(Blue)_David_Guetta.txt"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Rain Is A Good Thing",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/32_Rain_Is_A_Good_Thing_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Somehow You Do (From The Motion Picture Four Good Days)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/33_Somehow_You_Do_(From_The_Motion_Picture_Four_Good_Days)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "The Good Ones",
+      "artist": "Gabby Barrett",
+      "has_synced": true,
+      "path": "select/34_The_Good_Ones_Gabby_Barrett.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "good night",
+      "artist": "Every Little Thing",
+      "has_synced": false,
+      "path": "select/pl_01_good_night_Every_Little_Thing.txt"
+    }
+  ]
+}
